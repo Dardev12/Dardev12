@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dardev12
-- 👀 I’m interested in Android app developpement
-- 🌱 I’m currently learning TDD for android app developpement
-- 💞️ I’m looking to collaborate on Android app project
+- 👀 I’m interested in mobile app, software,web developpement
 - 📫 How to reach me dardevpro@outlook.com
 
 <!---
