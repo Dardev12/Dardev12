@@ -1,25 +1,28 @@
-👋 Hi, I’m Darren Lambert
+# 👋 Hi, I’m Darren Lambert
 
-👀 I’m interested in mobile app, software,web developpement
+📧 Email: [dardevpro@outlook.com](mailto:dardevpro@outlook.com)  
 
-🔴 Find me on YouTube: [Dardev12](https://www.youtube.com/channel/UCT010Fc3tnQIqwb3D0b9B_A)
+---
 
+👀 I’m interested in mobile app, software, and web development.
+
+🔴 Find me on YouTube: [Dardev12](https://www.youtube.com/channel/UCT010Fc3tnQIqwb3D0b9B_A)  
 🌟 Check out my online courses: [Udemy](https://www.udemy.com/course/concevoir-et-deployer-une-app-android-avec-jetpack-compose/)
 
-![Dardev's github stats](https://github-readme-stats.vercel.app/api?username=dardev12&show_icons=true)
+![Dardev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dardev12&show_icons=true)
 
-From Canada 🇨🇦 🇫🇷
+From Canada 🇨🇦🇫🇷
 
-Email: [dardevpro@outlook.com](mailto:dardevpro@outlook.com)  
+---
 
-## Education
+## 🎓 Education
 
 - **Cégep Beauce-Appalaches**  
   DEC techniques de l’informatique
 
 - **Plateforme Udemy**  
-  Formation Kotlin development Masterclass  
-  Formation Ios 13 App development BootCamp
+  - Formation Kotlin Development Masterclass  
+  - Formation iOS 13 App Development BootCamp
 
 - **Formation de Philipp Lackner**  
   Building Industry-Level Apps With Multi-Module Architecture
@@ -27,39 +30,43 @@ Email: [dardevpro@outlook.com](mailto:dardevpro@outlook.com)
 - **Lycée Jean Joly (France)**  
   Titulaire d’un BAC technologique (STI2D OPTION SIN 2019)
 
-## Professional Experience
+---
+
+## 💼 Professional Experience
 
 - **2020 - 2021: Centre-Hifi, Computer Technician**  
   Computer/router troubleshooting, computer repairs, and online support.  
-  Saint-Georges (Québec)
+  *Saint-Georges (Québec)*
 
 - **Summer 2021: MaxiMetal (Internship)**  
   Maintenance of the IT network, use of VBA, PowerShell, Scanner Project, ERP software utilization.  
-  Saint-Georges (Québec)
+  *Saint-Georges (Québec)*
 
 - **Fall 2021: Centre Universitaire des Appalaches**  
   Technical support for the Zoom platform and hardware.  
-  Saint-Georges (Québec)
+  *Saint-Georges (Québec)*
 
 - **Winter 2022: Canam (Internship)**  
   Use of Google Colab, technologies learned during the internship (Python, BigQuery, Tableau, SQL, GCP), Proof of Concept, ETL usage (Boomi).  
-  Saint-Georges (Québec)
+  *Saint-Georges (Québec)*
 
 - **Summer 2022 - Winter 2023: Komutel (Junior Developer)**  
   Front End development using React, node.js, express, TypeScript.  
-  Saint-Georges (Québec)
+  *Saint-Georges (Québec)*
 
 - **March 2023 - November 2023: Nmedia (Developer Analyst)**  
   Xamarin, C#, MAUI, React Native  
-  Drummondville (Québec)
+  *Drummondville (Québec)*
 
 - **Currently Working: Land App (Developer Analyst)**  
   Kotlin, Swift, KMM, ASP .NET  
-  Drummondville (Québec)
+  *Drummondville (Québec)*
 
-## Skills
+---
 
-- **Professional**
+## 🛠 Skills
+
+### Professional
   
 ![Kotlin](https://img.shields.io/badge/Kotlin-563D7C?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -81,20 +88,25 @@ Email: [dardevpro@outlook.com](mailto:dardevpro@outlook.com)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **Personal**
-  - Creative
-  - Sociable
-  - Rigorous
-  - Self-taught
+### Personal
 
-## Hobbies
+- Creative
+- Sociable
+- Rigorous
+- Self-taught
+
+---
+
+## 🎨 Hobbies
 
 - Manga
-- Cuisiner
-- Cinéma
-- Sport
+- Cooking
+- Cinema
+- Sports
 
-## Projects Completed
+---
+
+## 🚀 Projects Completed
 
 - **2020 – JouJouthèque de Saint-Georges**  
   Desktop inventory management applications (Borrowing, Client Subscription) developed in C#, SQL
@@ -103,16 +115,18 @@ Email: [dardevpro@outlook.com](mailto:dardevpro@outlook.com)
   Creation of a showcase website using Wordpress.
 
 - **May 2022 – Jojo Wiki**  
-  Creation of a mobile encyclopedia application on Android using Kotlin, Jetpack Compose, KTOR
+  Creation of a mobile encyclopedia application on Android using Kotlin, Jetpack Compose, KTOR  
   [Play Store Link](https://play.google.com/store/apps/details?id=com.dardev.jojowikapp)
 
 - **July 2023 – Nmedia Project**  
   Collaboration with Nmedia on the production launch of the Brunet&Moi and JeanCoutu&Moi apps developed in Xamarin, C#
 
 - **November 2023 – Land App v1.0**  
-  Development of a cross-platform mobile application (Land App) using Kotlin, Jetpack Compose, Swift UI
-  [Play Store Link](https://play.google.com/store/apps/details?id=com.dardev.land.android)
+  Development of a cross-platform mobile application (Land App) using Kotlin, Jetpack Compose, Swift UI  
+  [Play Store Link](https://play.google.com/store/apps/details?id=com.dardev.land.android)  
   [App Store Link](https://apps.apple.com/ca/app/land-app-explore-share/id6452432488?platform=iphone)
+
+---
 
 
 <!---
